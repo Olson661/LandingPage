@@ -1,5 +1,6 @@
-#head {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+ul {
+  margin: 30;
+  padding: 20;
+  display: flex;
+  justify-content: flex-end
 }
