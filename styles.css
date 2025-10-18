@@ -74,9 +74,10 @@ font-weight: bold;
 }
 
 .info h2 {
-  font-size: 32px;
+  font-size: 36px;
   margin-bottom: 40px;
-  font-weight: bold;
+  font-weight: 900;
+  color: #1f2937;
 }
 
 .info-cards {
@@ -108,7 +109,8 @@ font-weight: bold;
   background-color: #e5e7eb;
   padding: 80px;
   font-style: italic;
-  font-size: 24px;
+  font-size: 36px;
+  font-weight: 300;
   color: #1f2937;
 }
 
